@@ -1,5 +1,7 @@
-Task-3
+#Task-3
+
 Chat-App
+
 The program is a simple chat application built using Python and the Flask web framework for the backend. 
 It leverages Flask-SocketIO to enable real-time communication through WebSocket. 
 Users can access a web-based chat interface where they can join a chat room and send messages to each other. 
